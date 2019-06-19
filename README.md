@@ -1,1 +1,0 @@
-This is a movie-app SPA which display movie with related movie 
