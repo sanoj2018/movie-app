@@ -1,0 +1,47 @@
+* {
+  margin-left: 5px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+.movie {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.movie-details {
+  position: relative;
+  top: 240px;
+}
+
+.movie-image {
+  width: 15vw;
+  height: 20vh;
+  max-width: 200px;
+  max-height: 400px;
+  min-width: 100px;
+}
+.like-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.fav-icon {
+  position: relative;
+  float: right;
+  left: -20px;;
+}
+.hLine {
+  width: 100%;
+  border: 1px solid black;
+}
+.movie-image-synopsis {
+  width: 40vw;
+  height: 30vw;
+  max-width: 400px;
+  max-height: 200px;
+}
+.img-container {
+  border: 1px solid black;
+}
