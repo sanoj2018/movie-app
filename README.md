@@ -19,3 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![sm-devices2](https://user-images.githubusercontent.com/39957256/59961271-2037c380-94f3-11e9-9304-cfdd80a1f0a2.JPG)
 ****************************************************************************************************************************
 
+
+Points:
+1. movie info/related movies are fetched from mockable api provided
+2. To fetch the movie poster i have used node-app (https://github.com/sanoj2018/node-app) which will serve static resources(posters)
+
+Pendind in UI side (Improvements):
+1. Some CSS changes to look good on all viewport variants
+2. We can have some more reusable componets/ styled component created (for images, buttons which are uses vary offen)
